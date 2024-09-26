@@ -1,7 +1,7 @@
 # **Dubai_UG 16**
 ### *Machine Learning Portfolio for HW Dubai Group 16*
 
-## Project Title: *Title goes here* 
+## Project Title: *Title goes here* (TBD)
 
 ## Group Members
   - Ilham Ghori
@@ -35,8 +35,8 @@ repository using permanent links. This includes:
 
 ## Repo Structure
 The main folders in this file include:
-  - data/ *for datasets*
-  - notebooks *Jupyter notebooks for analysis/modelling*
-  - scripts *Python scripts for preprocessing/ML*
-  - documentation *project documents and weekly updates, organized per week*
+  - data - *for datasets*
+  - notebooks  - *Jupyter notebooks for analysis/modelling*
+  - scripts - *Python scripts for preprocessing/ML*
+  - documentation - *project documents and weekly updates, organized per week*
     - Descriptions and Instructions *contains course files provided*
