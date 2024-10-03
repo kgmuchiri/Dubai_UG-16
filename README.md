@@ -1,7 +1,7 @@
 # **Dubai_UG 16**
 ### *Machine Learning Portfolio for HW Dubai Group 16*
 
-## Project Title: *Title goes here* (TBD)
+## Project Title: Wildfires
 
 ## Group Members
   - Ilham Ghori
@@ -10,7 +10,7 @@
   - Raiqah Shameer
   - Sherif Fares
 
-## Project Milestones (TBD)
+## Project Milestones 
 Your Project Milestones, including when you are expecting to complete each requirement within 
 context of the semeste
 
@@ -39,4 +39,3 @@ The main folders in this file include:
   - notebooks  - *Jupyter notebooks for analysis/modelling*
   - scripts - *Python scripts for preprocessing/ML*
   - documentation - *project documents and weekly updates, organized per week*
-    - Descriptions and Instructions *contains course files provided*
