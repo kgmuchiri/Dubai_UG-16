@@ -1,7 +1,7 @@
 # **Dubai_UG 16**
 ### *Machine Learning Portfolio for HW Dubai Group 16*
 
-## Project Title: Wildfires
+## Project Title: Heart Disease
 
 ## Group Members
   - Ilham Ghori
@@ -14,8 +14,15 @@
 Your Project Milestones, including when you are expecting to complete each requirement within 
 context of the semeste
 
-## Dataset sources (TBD)
-  - Datasets used
+## Dataset sources 
+Dataset 1:
+  - Source of datasets
+  - Original licsence for each source
+  - 2 specific examples from dataset presented nicely
+  - Any additional steps taken during data collection to expand the dataset, any metrics associated
+    with these. Not mandatory
+
+Dataset 2:
   - Source of datasets
   - Original licsence for each source
   - 2 specific examples from dataset presented nicely
@@ -25,7 +32,7 @@ context of the semeste
 ## Data Preparation Pipeline (TBD)
  How to run your data preparation pipeline, with a short overview of the steps it includes.
 
-## Requirement Description (TBD)
+## Requirement Description
 A short description (100 words max.) of each requirements (R2–R5) and their location(s) within your 
 repository using permanent links. This includes:
  - What is your model predicting? (a.k.a., the outputs)
