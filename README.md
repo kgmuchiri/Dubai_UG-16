@@ -60,10 +60,10 @@ To run the pipeline, execute the script data_preparation.py in the scripts folde
 
 ## Requirement Description
 R2 - Data Analysis and Exploration
-Objective: To explore and analyze datasets, identifying relevant correlations and patterns.
-Location: R2 Data Analysis Notebook (link to be added)
-Model Outputs: Various health indicators predicting HeartDisease
-Model Inputs: 41 features reduced to 10, 20, and 41 selected features datasets.
+- Objective: To explore and analyze datasets, identifying relevant correlations and patterns.
+- Location: R2 Data Analysis Notebook (link to be added)
+- Model Outputs: Various health indicators predicting HeartDisease
+- Model Inputs: 41 features reduced to 10, 20, and 41 selected features datasets.
 
 A short description (100 words max.) of each requirements (R2–R5) and their location(s) within your 
 repository using permanent links. This includes:
