@@ -11,13 +11,13 @@
   - Sherif Fares
 
 ## Project Milestones 
-To meet our project goals effectively, we’ve set the following milestones with the final submission due in Week 11:
+To meet our project goals effectively, we’ve set the following milestones:
 
-Week 3-4: Data acquisition and initial preprocessing.
-Week 5-6: Feature selection and data exploration.
-Week 7-8: Model selection and training.
-Week 9-10: Model evaluation and tuning.
-Week 11: Finalize documentation and submission.
+- Week 3-4: Data acquisition and initial preprocessing.
+- Week 5-6: Feature selection and data exploration.
+- Week 7-8: Model selection and training.
+- Week 9-10: Model evaluation and tuning.
+- Week 11: Finalize documentation and submission.
 
 ## Dataset sources 
 Dataset 1: Indicators of Heart Disease 2020 (CDC)
