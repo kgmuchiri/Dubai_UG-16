@@ -15,19 +15,21 @@ Your Project Milestones, including when you are expecting to complete each requi
 context of the semeste
 
 ## Dataset sources 
-Dataset 1:
-  - Source of datasets
-  - Original licsence for each source
+Dataset 1: Indicators of Heart Disease 2020 (CDC)
+  - Original Source: US Centers for Disease Control and Prevention (CDC)
+    - Link: https://www.cdc.gov/brfss/annual_data/annual_2020.html
+  - Retrieved from: Kaggle
+    - Link: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data
+  - License: Creative Commons (CC0) Public Domain
   - 2 specific examples from dataset presented nicely
-  - Any additional steps taken during data collection to expand the dataset, any metrics associated
-    with these. Not mandatory
+
 
 Dataset 2:
-  - Source of datasets
-  - Original licsence for each source
+  - Original Source: Mendeley Data
+    - Link: https://data.mendeley.com/datasets/gwbz3fsgp8/2
+  - License: Creative Commons Attribution 4.0
   - 2 specific examples from dataset presented nicely
-  - Any additional steps taken during data collection to expand the dataset, any metrics associated
-    with these. Not mandatory
+
 
 ## Data Preparation Pipeline (TBD)
  How to run your data preparation pipeline, with a short overview of the steps it includes.
