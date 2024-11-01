@@ -8,11 +8,10 @@ This document summarizes the exploratory data analysis (EDA) performed on a hear
 - The dataset was checked for missing values and duplicates.
 - Duplicate rows were removed.
 - The distribution of the target variable ('HeartDisease') was visualized.
-- The 'Diabetic' feature was simplified by grouping less frequent categories.
 
 ## 2.  Data Visualization
 
-- Stacked bar charts were used to visualize the relationship between various features (e.g., 'SkinCancer', 'AlcoholDrinking', 'Stroke', etc.) and the target variable ('HeartDisease'). This helps in understanding how different features might influence the presence of heart disease.
+- Stacked bar charts were used to visualize the relationship between various features (e.g., 'SkinCancer', 'AlcoholDrinking', 'Stroke', etc.) and the target variable 'HeartDisease'. This helps in understanding how different features might influence the presence of heart disease.
 
 ## 3. Handling Class Imbalance
 
@@ -22,7 +21,7 @@ This document summarizes the exploratory data analysis (EDA) performed on a hear
 
 ## 4. Feature Selection
 
-- **One-Hot Encoding:** Categorical features were converted into numerical representations using one-hot encoding. The binary values had k-1 encoding, where as the the 
+- **One-Hot Encoding:** Categorical features were converted into numerical representations using one-hot encoding. The binary values had k-1 encoding (dummy encoding), where as the the other categorical values use one-hot encoding. 
 - **Correlation Analysis:**
     - **Point-Biserial Correlation:**  Used to measure the correlation between continuous features (e.g., 'BMI', 'PhysicalHealth') and the binary target variable.
     - **Cramer's V:** Used to measure the association between categorical features and the target variable.
