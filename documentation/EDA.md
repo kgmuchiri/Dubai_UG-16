@@ -28,4 +28,7 @@ This document summarizes the exploratory data analysis (EDA) performed on a hear
 - The features were ranked based on their correlation with the target variable.
 - Different feature sets were created by selecting the top N correlated features. This is for experimenting with different numbers of features to see how it affects model performance.We did top 10 features , top 20 features and finally all features
 
+Websites used: 
+- https://medium.com/analytics-vidhya/one-hot-encoding-method-of-feature-engineering-11cc76c4b627
+
 This EDA process helps in understanding the data, identifying potential issues, and preparing the data for further analysis and modeling.
