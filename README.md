@@ -52,10 +52,10 @@ Dataset 2:
 ## Data Preparation Pipeline 
 Our data preparation pipeline involves:
 
-Data Loading - Access and load the datasets into a usable format.
-Data Cleaning - Handle missing values and standardize formats.
-Feature Engineering - Encoding categorical variables and normalizing numerical values.
-Feature Selection - Based on correlation with the target variable, HeartDisease.
+- Data Loading - Access and load the datasets into a usable format.
+- Data Cleaning - Handle missing values and standardize formats.
+- Feature Engineering - Encoding categorical variables and normalizing numerical values.
+- Feature Selection - Based on correlation with the target variable, HeartDisease.
 To run the pipeline, execute the script data_preparation.py in the scripts folder.
 
 ## Requirement Description
