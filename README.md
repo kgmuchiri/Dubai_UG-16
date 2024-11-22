@@ -20,7 +20,7 @@ To meet our project goals effectively, we’ve set the following milestones:
 - Week 11: Finalize documentation and submission.
 
 ## Dataset sources 
-Dataset 1: Indicators of Heart Disease 2020 (CDC)
+### Dataset 1: Indicators of Heart Disease 2020 (CDC)
   - Original Source: US Centers for Disease Control and Prevention (CDC)
     - Link: https://www.cdc.gov/brfss/annual_data/annual_2020.html
   - Retrieved from: Kaggle
@@ -28,7 +28,7 @@ Dataset 1: Indicators of Heart Disease 2020 (CDC)
   - License: Creative Commons (CC0) Public Domain
   - 2 specific examples from dataset presented nicely
 
-### Sample Data
+#### Sample Data
 | AgeCategory | Sex   | BMI | Smoking | PhysicalActivity | HeartDisease |
 |-------------|-------|-----|---------|------------------|--------------|
 | 60-64       | Male  | 26  | No      | Yes             | No           |
@@ -36,13 +36,13 @@ Dataset 1: Indicators of Heart Disease 2020 (CDC)
 
 
 
-Dataset 2:
+### Dataset 2:
   - Original Source: Mendeley Data
     - Link: https://data.mendeley.com/datasets/gwbz3fsgp8/2
   - License: Creative Commons Attribution 4.0
   - 2 specific examples from dataset presented nicely
 
-### Sample Data
+#### Sample Data
 ![HB(1)](https://github.com/user-attachments/assets/c703769c-603d-4a81-83a4-dc626dcda858)
   - ECG for abnormal heartbeat (HB)
 
