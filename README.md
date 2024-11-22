@@ -58,7 +58,7 @@ Our data preparation pipeline involves:
 - Feature Selection - Based on correlation with the target variable, HeartDisease.
 To run the pipeline, execute the script data_preparation.py in the scripts folder.
 - Image Script:
-- -for image processing run script, image script that takes preprocessed images from their file and create training and testing numpy files with 2D arrays 
+-- for image processing run script, image script that takes preprocessed images from their file and create training and testing numpy files with 2D arrays 
 
 ## Requirement Description
 R2 - Data Analysis and Exploration
