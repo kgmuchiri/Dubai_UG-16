@@ -149,8 +149,9 @@ image_data_path = os.path.join(numpy_folder, 'image_data.npy')
 labels_path = os.path.join(numpy_folder, 'labels.npy')
 
 # Save the datasets
-np.save(image_data_path, image_data)
-np.save(labels_path, labels)
+
+#np.save(image_data_path, image_data)
+#np.save(labels_path, labels)
 # %%
 image_data.shape
 
@@ -168,7 +169,7 @@ X_train, X_test, y_train, y_test = train_test_split(
     image_data, labels, test_size=0.2, random_state=42
 )
 
-X_train = X_train/255.0
+
 
 # Construct the full file paths within the numpy subfolder
 X_train_path = os.path.join(numpy_folder, 'X_train.npy')
